@@ -1,0 +1,21 @@
+.container{
+    background-color: #777;
+    font-size: 2rem;
+    /* border: 2px solid red; */
+    height: 5rem;
+    display: flex;
+    margin-top: 1rem;
+    border-radius: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+
+}
+
+
+.miniContainer{
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
